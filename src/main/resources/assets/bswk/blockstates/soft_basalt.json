@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "melt=0": {
+      "model": "bswk:block/soft_basalt"
+    },
+    "melt=1": {
+      "model": "bswk:block/melting_soft_basalt_1"
+    },
+    "melt=2": {
+      "model": "bswk:block/melting_soft_basalt_2"
+    },
+    "melt=3": {
+      "model": "bswk:block/melting_soft_basalt_3"
+    }
+  }
+}

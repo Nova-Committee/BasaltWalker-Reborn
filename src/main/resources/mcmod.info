@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "bswk",
+    "name": "BasaltWalker",
+    "description": "Make exploration in the nether much easier!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Hashtag233",
+      "Tapio"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

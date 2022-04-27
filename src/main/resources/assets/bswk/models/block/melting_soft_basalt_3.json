@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "bswk:blocks/soft_basalt_3_top",
+    "side": "bswk:blocks/soft_basalt_3_side",
+    "particle": "bswk:blocks/soft_basalt_3_top"
+  }
+}

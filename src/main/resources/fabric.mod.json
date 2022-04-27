@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "bswk",
+  "version": "${version}",
+  "name": "BasaltWalker",
+  "description": "",
+  "authors": [
+    "Tapio",
+    "Hashtag233"
+  ],
+  "contact": {},
+  "license": "AGPL-3.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "committee.nova.migration.bswk.BasaltWalker"
+    ]
+  },
+  "mixins": [
+    "bswk.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "*",
+    "fabric": "*",
+    "minecraft": "*"
+  }
+}
